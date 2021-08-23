@@ -1,5 +1,8 @@
 # cat dog classification
 
+# 코드 데스크톱에서 다시넣기.
+
+
 image image image...
 cat dog classification,
 precision recall accuracy loss graph
